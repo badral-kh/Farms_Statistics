@@ -1,6 +1,6 @@
 Program Author: 
 
-	Badral Khurelbaatar 101166852
+	Badral Khurelbaatar
 
 Purpose: 
 
